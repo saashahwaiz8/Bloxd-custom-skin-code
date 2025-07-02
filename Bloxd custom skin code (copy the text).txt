@@ -1,0 +1,6 @@
+api.updateEntityNodeMeshAttachment(myId, "ArmRightMesh", "BloxdBlock", {blockName:"INTERNAL_MESH_Cyan Balloon", size: 0.975, meshOffset:[0, 0, 0]}, [0, -0.725, 0], [0, 0, 0])
+api.updateEntityNodeMeshAttachment(myId, "ArmLeftMesh", "BloxdBlock", {blockName:"INTERNAL_MESH_Black Balloon", size: 0.975, meshOffset:[0, 0, 0]}, [0, -0.725, 0], [0, 0, 0])
+api.updateEntityNodeMeshAttachment(myId, "HeadMesh", "BloxdBlock", {blockName:"INTERNAL_MESH_Brown Balloon", size: 0.975, meshOffset:[0, 0, 0]}, [0, 0, 0], [0, 3.145, 0])
+api.updateEntityNodeMeshAttachment(myId, "TorsoNode", "BloxdBlock", {blockName:"INTERNAL_MESH_Blue Balloon", size: 0.975, meshOffset:[0, 0, 0]}, [0, 0, 0], [0, 3.14, 0])
+api.updateEntityNodeMeshAttachment(myId, "LegLeftMesh", "BloxdBlock", {blockName:"INTERNAL_MESH_Red Balloon", size: 0.975, meshOffset:[0, 0, 0]}, [0, -0.725, 0], [0, 3.145, 0])
+api.updateEntityNodeMeshAttachment(myId, "LegRightMesh", "BloxdBlock", {blockName:"INTERNAL_MESH_Green Balloon", size: 0.975, meshOffset:[0, 0, 0]}, [0, -0.725, 0], [0, 3.145, 0])
